@@ -7,12 +7,12 @@ description: Anon desc
 
 Put a video here.
 
-<div style=”float:left;width:auto;margin-right:14px;”> 
+<div style=”float:left;width:50%;margin-right:14px;”> 
   <iframe src="https://streamable.com/e/lev5vy?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;">
   </iframe>
 </div>
 
-<div style=”float:left;width:auto;margin-right:14px;”> 
+<div style=”float:left;width:50%;margin-right:14px;”> 
   <iframe src="https://streamable.com/e/lev5vy?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;">
   </iframe>
 </div>

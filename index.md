@@ -63,7 +63,7 @@ description: Anon desc
 </tr>
 <tr>
   <td>
-    <iframe src="https://streamable.com/9fks3b?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay"></iframe>
+    <iframe src="https://streamable.com/e/9fks3b?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay"></iframe>
   </td>
   <td>
     <iframe src="https://streamable.com/e/c1qo8y?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay"></iframe>
@@ -80,7 +80,7 @@ description: Anon desc
 </tr>
 <tr>
   <td>
-    <iframe src="https://streamable.com/y1l2sp?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay"></iframe>
+    <iframe src="https://streamable.com/e/y1l2sp?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay"></iframe>
   </td>
   <td>
     <iframe src="https://streamable.com/e/jho369?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay"></iframe>
@@ -97,7 +97,7 @@ description: Anon desc
 </tr>
 <tr>
   <td>
-    <iframe src="https://streamable.com/3rl1fu?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay"></iframe>
+    <iframe src="https://streamable.com/e/3rl1fu?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay"></iframe>
   </td>
   <td>
     <iframe src="https://streamable.com/e/b23prx?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay"></iframe>

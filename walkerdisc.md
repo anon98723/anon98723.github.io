@@ -5,5 +5,15 @@ tagline: Anon tag
 description: Anon desc 
 ---
 
+Walker [walk smp].
 
-This is the dedicated walker discrimination page.
+# [reward](#reward)
+
+
+# [avg](#avg)
+
+# [min](#min)
+
+# [max sf](#max-sf)
+
+# [smp](#smp)

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Anon 
-tagline: Anon tag
-description: Anon desc 
+title: Discovering a Diverse Set of Near-Optimal Policies for Reinforcement Learning
+tagline: ICML Submission 
+description: Supplementary Material 
 ---
 
 
